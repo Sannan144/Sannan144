@@ -8,7 +8,7 @@
 ---
 
 - 🔭 I’m currently working on **React Projects**
-- 🌱 Currently learning **Next.js**, **Locomotive Scroll**, and more animation libraries
+- 🌱 Currently learning **Next.js**, **Locomotive Scroll**, and other animation libraries
 - 📫 Reach me at: **sannansnn@gmail.com**
 
 ---
@@ -40,15 +40,19 @@
 ### 📌 Pinned Projects
 
 - 🎯 **Employee Management System**  
-  A complete HRM system (CRUD operations, attendance, payroll, etc.) built using **React**, with clean UI and scalable structure. *(Coming soon on GitHub)*
+  A complete HRM system (CRUD operations, attendance, payroll, etc.) built using **React**, with clean UI and scalable structure.  
+  👉 [View on GitHub](https://github.com/sannan144/employee-management-system)  
+  🔗 [Live Demo on Vercel](https://employee-management-system.vercel.app)
 
 - 🌐 **WebLab**  
   A fully responsive, animated clone of a real digital agency website. Built using **React**, **Tailwind CSS**, and **GSAP** for rich animations.  
-  👉 [View on GitHub](https://github.com/sannan144/WebLab)
+  👉 [View on GitHub](https://github.com/sannan144/WebLab)  
+  🔗 [Live Demo on Vercel](https://weblab.vercel.app)
 
 - 🍽️ **Bite-Bliss**  
   A smooth and modern food delivery website featuring animations, Swiper sliders, and responsive layout. Made with **React**, **Framer Motion**, and **Tailwind CSS**.  
-  👉 [View on GitHub](https://github.com/sannan144/Bite-Bliss)
+  👉 [View on GitHub](https://github.com/sannan144/Bite-Bliss)  
+  🔗 [Live Demo on Vercel](https://bite-bliss.vercel.app)
 
 ---
 
