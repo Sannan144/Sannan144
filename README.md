@@ -42,17 +42,17 @@
 - 🎯 **Employee Management System**  
   A complete HRM system (CRUD operations, attendance, payroll, etc.) built using **React**, with clean UI and scalable structure.  
   👉 [View on GitHub](https://github.com/sannan144/employee-management-system)  
-  🔗 [Live Demo on Vercel](https://employee-management-system.vercel.app)
+  🔗 [Live Demo on Vercel](https://employee-management-system-two-eosin.vercel.app)
 
 - 🌐 **WebLab**  
   A fully responsive, animated clone of a real digital agency website. Built using **React**, **Tailwind CSS**, and **GSAP** for rich animations.  
   👉 [View on GitHub](https://github.com/sannan144/WebLab)  
-  🔗 [Live Demo on Vercel](https://weblab.vercel.app)
+  🔗 [Live Demo on Vercel](https://web-lab-eight.vercel.app)
 
 - 🍽️ **Bite-Bliss**  
   A smooth and modern food delivery website featuring animations, Swiper sliders, and responsive layout. Made with **React**, **Framer Motion**, and **Tailwind CSS**.  
   👉 [View on GitHub](https://github.com/sannan144/Bite-Bliss)  
-  🔗 [Live Demo on Vercel](https://bite-bliss.vercel.app)
+  🔗 [Live Demo on Vercel](https://bite-bliss-alpha.vercel.app)
 
 ---
 
