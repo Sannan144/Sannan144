@@ -56,19 +56,7 @@
   A smooth and modern food delivery website featuring animations, Swiper sliders, and responsive layout. Made with **React**, **Framer Motion**, and **Tailwind CSS**.  
   👉 [View on GitHub](https://github.com/sannan144/Bite-Bliss)  
   🔗 [Live Demo on Vercel](https://bite-bliss-alpha.vercel.app)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sannan144&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sannan144&layout=compact&theme=default" alt="Top Languages" />
-</p>
-
+  
 ---
 
 ### 📫 Contact Me
